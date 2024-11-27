@@ -1,0 +1,22 @@
+開発初期のやつです。
+
+It's in the early stages of development.
+
+
+/bin #実行ファイル executable file
+/boot #bootsector
+/user
+  /user name
+    /home
+      /document
+      /photo
+      /user_application
+/temp
+/root
+  /root_bin
+/open_OS
+  /APL&GPL
+  /etc
+    /env
+  /dev
+  /log
